@@ -19,4 +19,4 @@ I only have 1 file, which is final_project.ipynb that contains everything requir
 
 ## Results
 
-Some sample images are stored in the folder titled progression_pics shows several images (PNG) evolving as a function of their iteration.
+I added a lot of images (JPEG and PNG files) generated using my techniques. 
